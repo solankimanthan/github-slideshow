@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to my slide!"
 ---
-Manthan's File
+Manthan File
 Use the left arrow to go back!
